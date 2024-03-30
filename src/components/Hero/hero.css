@@ -1,0 +1,30 @@
+.headerIcon {
+  height: 10rem;
+  position: relative;
+  left: 45%;
+  top: 1rem;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: white;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.heroImage img{
+  height: 20rem;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+

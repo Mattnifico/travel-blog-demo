@@ -1,0 +1,24 @@
+.card {
+    background: white;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding: 1rem;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.imageRow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imageRow img {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+  border: solid gold;
+}
